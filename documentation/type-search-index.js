@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"rides","l":"Coasters"},{"p":"occupants","l":"CostumedActor"},{"p":"rides","l":"DarkRides"},{"p":"occupants","l":"EmployeesAbstract"},{"p":"occupants","l":"FoodVendor"},{"p":"driver","l":"Main"},{"p":"admin","l":"ParkAdminDashboard"},{"p":"occupants","l":"ParkGuests"}];updateSearchResults();
